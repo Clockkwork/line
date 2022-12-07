@@ -28,4 +28,5 @@ public class Main {
             System.out.println("Начало отрезка: " + start1 + ".Конец отрезка: " + end1);
         }
     }
+
 }
